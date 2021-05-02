@@ -2,7 +2,7 @@
 
 **Current computer science student and Founder of Fintensive Software Solutions**
 
-**--Languages Familiar With--**
+**--Languages--**
 
 * Node.JS
 * JavaScript
