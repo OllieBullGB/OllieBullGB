@@ -1,6 +1,6 @@
 # Ollie Bull 
 
-**Current computer science student and Founder of Fintensive Software Solutions**
+**Current software engineer at Drainline Southern and Founder of Liut Software**
 
 **--Languages--**
 
