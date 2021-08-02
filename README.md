@@ -1,6 +1,6 @@
 # Ollie Bull 
 
-**Current software engineer at Drainline Southern and Founder of Liut Software**
+**Current software engineer at Drainline Southern and Founder of Liut Technologies**
 
 **--Languages--**
 
