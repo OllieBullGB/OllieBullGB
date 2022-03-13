@@ -1,4 +1,4 @@
 # Ollie Bull 
 
-**Current software engineer at Drainline Southern and Liut Technologies**
+**Current software engineer at Liut Technology, Contracted to Drainline**
 
